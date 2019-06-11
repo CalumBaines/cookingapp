@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="25px" viewBox="0 0 96 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Component-/-Navigation-/-Desktop" transform="translate(-80.000000, -27.000000)">
+            <g transform="translate(1.000000, 0.000000)" id="Logo">
+                <g transform="translate(79.000000, 26.000000)">
+                    <g id="Logo-Text-" transform="translate(28.000000, 4.000000)" fill="#363837" font-family="Nunito-Bold, Nunito" font-size="20" font-weight="bold" letter-spacing="0.400000006" line-spacing="20">
+                        <text id="Scratch">
+                            <tspan x="0" y="20">scratc</tspan>
+                            <tspan x="57.42" y="20">h</tspan>
+                        </text>
+                    </g>
+                    <g id="Loco-Icon-" transform="translate(0.000000, 1.000000)">
+                        <g id="Group">
+                            <path d="M14.0823624,22.1481574 C10.1562972,25.8425573 3.90009044,25.7361474 0.108733404,21.9104843 L14.326273,8.53187867 C18.11763,12.3575418 18.0084275,18.4537574 14.0823624,22.1481574 Z" id="Path" fill="#30BE76"></path>
+                            <path d="M16.9911322,2.94033601 L2.77359259,16.3189417 C-1.01776445,12.4932785 -0.90856195,6.39706292 3.0175032,2.70266298 C6.94356834,-0.99173696 13.1997751,-0.885327121 16.9911322,2.94033601 Z" id="Path" fill="#F8B449"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
